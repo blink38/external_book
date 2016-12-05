@@ -1,0 +1,6 @@
+name: External Book
+type: module
+description: Retrieve book information from external source
+package: 'Media'
+core: 8.x
+dependencies:
